@@ -92,7 +92,7 @@ class _CalculatorScreenState extends State<CalculatorScreen> {
         alignment: Alignment.center,
         margin: const EdgeInsets.all(10),
         decoration: BoxDecoration(
-          color: buttonColor, // теперь фон кнопки меняется
+          color: buttonColor,
           borderRadius: BorderRadius.circular(20),
           boxShadow: const [
             BoxShadow(
